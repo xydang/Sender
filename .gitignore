@@ -1,8 +1,10 @@
 # Object files
+*.d
 *.o
 *.ko
 *.obj
 *.elf
+
 
 # Precompiled Headers
 *.gch
@@ -13,6 +15,7 @@
 *.a
 *.la
 *.lo
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -27,6 +30,19 @@
 *.i*86
 *.x86_64
 *.hex
+
+#Project file
+*.bak
+*.xydang
+*.deb
+*.txt
+*.ini
+*.htm
+*.sct
+*.lnp
+*.axf
+*.map
+*.lst
 
 # Debug files
 *.dSYM/
